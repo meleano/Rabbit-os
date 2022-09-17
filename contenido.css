@@ -9,26 +9,26 @@
 }
 
 .content_container .titulon {
-    font-size: 10rem;
+    font-size: 10vw;
     font-family: 'Mohave', sans-serif;
-    margin-bottom: -3rem;
-    text-shadow: 3px 6px 3px rgb(128, 77, 0), 0 0 2em rgb(0, 70, 75), 0 0 0.5em rgb(0, 38, 255);
+    margin-bottom: -3vw;
+    text-shadow: 3vw 6vw 3vw rgb(128, 77, 0), 0 0 2vw rgb(0, 70, 75), 0 0 0.5vw rgb(0, 38, 255);
 }
 
 .content_container .subtitulillo {
-    font-size: 4rem;
+    font-size: 4vw;
     font-family: var(--lato-font-family);
     font-style: italic;
     color: #ececec;
-    margin-bottom: 3rem;
-    text-shadow: 3px 5px 1px rgb(128, 77, 0), 0 0 1em rgb(111, 0, 255), 0 0 0.2em rgb(0, 247, 255);
+    margin-bottom: 3vw;
+    text-shadow: 3vw 5vw 1vw rgb(128, 77, 0), 0 0 1em rgb(111, 0, 255), 0 0 0.2em rgb(0, 247, 255);
 }
 
 .content_container .nombrecillos {
-    font-size: 2rem;
+    font-size: 2vw;
     font-family: var(--lato-font-family);
     opacity: 1;
-    text-shadow: 2px 4px 0.1px rgb(128, 77, 0), 0 0 1em rgb(0, 9, 134), 0 0 0.2em rgb(0, 247, 255);
+    text-shadow: 2vw 4vw 0.1vw rgb(128, 77, 0), 0 0 1em rgb(0, 9, 134), 0 0 0.2em rgb(0, 247, 255);
 }
 
 .boton_conejero {
