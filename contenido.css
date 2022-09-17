@@ -1,5 +1,5 @@
 .content_container {
-    position: relative;
+    position: absolute;
     width: 100%;
     top: 40%;
     left: 5%;
@@ -28,7 +28,7 @@
     font-size: 2vw;
     font-family: var(--lato-font-family);
     opacity: 1;
-    text-shadow: 2vw 4vw 0.1vw rgb(128, 77, 0), 0 0 1em rgb(0, 9, 134), 0 0 0.2em rgb(0, 247, 255);
+    text-shadow: 2px 4px 0.1px rgb(128, 77, 0), 0 0 1em rgb(0, 9, 134), 0 0 0.2em rgb(0, 247, 255);
 }
 
 .boton_conejero {
